@@ -13,6 +13,7 @@ import br.com.edmar.dao.ClienteDAO;
 import br.com.edmar.dao.IClienteDAO;
 import br.com.edmar.domain.Cliente;
 
+//test
 public class ClienteTest {
 	
 	private IClienteDAO clienteDAO;
